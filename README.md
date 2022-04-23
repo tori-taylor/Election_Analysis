@@ -5,7 +5,7 @@ The purpose of the assignment was to analyze votes in a election to determine th
 Below is a high-level summary of that analysis completed
 First I created the table below to compare data from all city types. ![Dataframe](https://github.com/tori-taylor/PyBer_analysis/blob/main/DataFrame.PNG)
 How many votes were cast in this congressional election?
- "*" There were 369,711 votes cast in the election
+  "*" There were 369,711 votes cast in the election
 Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 
 Which county had the largest number of votes?
